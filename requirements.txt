@@ -1,0 +1,8 @@
+discord==1.7.3
+pandas
+requests
+bs4
+asyncio
+psycopg2
+selenium==3.141.0
+discord_components
